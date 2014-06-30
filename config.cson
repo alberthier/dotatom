@@ -1,8 +1,14 @@
 'editor':
-  'fontSize': 16
+  'fontSize': 18
+  'fontFamily': 'Ubuntu Mono'
+  'tabLength': 4
 'core':
   'themes': [
     'atom-dark-ui'
     'atom-dark-syntax'
   ]
 'metrics': false
+'exception-reporting':
+  'userId': '80b53255-81b7-51b1-3ccb-ddefc35a4373'
+'welcome':
+  'showOnStartup': false
