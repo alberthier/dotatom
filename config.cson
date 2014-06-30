@@ -5,7 +5,7 @@
 'core':
   'themes': [
     'atom-dark-ui'
-    'atom-dark-syntax'
+    'monokai'
   ]
 'metrics': false
 'exception-reporting':
